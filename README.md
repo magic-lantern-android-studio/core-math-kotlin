@@ -1,5 +1,7 @@
-# core-math
+# core-math-kotlin
 Magic Lantern Core Math Library
+
+This version of the library is written in the [Kotlin programming language](https://kotlinlang.org/).
 
 The Magic Lantern Software Development Kit provides a library of math utilities to facilitate title development.
 The math library contains classes for vectors with 2, 3 and 4 floating-point elements. The library also provides
