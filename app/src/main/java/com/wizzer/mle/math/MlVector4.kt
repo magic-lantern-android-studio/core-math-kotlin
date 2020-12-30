@@ -188,7 +188,7 @@ class MlVector4
         mVector[0] = x
         mVector[1] = y
         mVector[2] = z
-        mVector[2] = w
+        mVector[3] = w
         return this
     }
 
